@@ -2,7 +2,7 @@
     "name": "INFECT2020",
     "short_name": "INFECT 2020",
     "description": "Web Informari Tentang Infect UMP",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fafafa",
     "theme_color": "#fafafa",
